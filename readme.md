@@ -1,4 +1,4 @@
-# <p style="text-align: center; color: blue;">"__#Algo Francis__"</p>
+# <p style="text-align: center; color: blue;">__#Algo Francis__</p>
 
 
 ## <p style="text-align: center; color: red;">__La complexité algorithmique(1/2)__</p> 
@@ -9,7 +9,7 @@
 
 <br>
 
-### <p style="text-align: center; color: orange;">---  LE PROJET 1/2  ---</p>
+### <p style="text-align: center; color: orange;">  LE PROJET 1/2  </p>
 
 <br>
         
@@ -40,10 +40,14 @@
 
 <br>
 
-* Tri à bulles. Tu pourras trouver une explication du tri à bulles par Mosh Hamedani ici (les 4 premières minutes)
-* Tri par insertion. Tu pourras trouver une explication du par insertion par Mosh Hamedani ici (les 5 premières minutes) ou par Harsha Suryanarayana, ici
-* Tri par sélection. Tu pourras trouver une explication du par sélection par Michael Sambol ici ou par Harsha Suryanarayana, ici
-* Tri rapide (quicksort). Tu pourras trouver une explication du par sélection par YK Sugishita ici ou par Harsha Suryanarayana, ici
+* Tri à bulles
+
+* Tri par insertion
+
+* Tri par sélection
+
+* Tri rapide (quicksort)
+
 
 <br>
 
@@ -64,7 +68,7 @@
 
 <br>
 
-### <p style="text-align: center; color: orange;"> --- LE PROJET 2/2 ---</p>
+### <p style="text-align: center; color: orange;"> LE PROJET 2/2 </p>
 
 <br>
 
